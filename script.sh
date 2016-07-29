@@ -1,3 +1,4 @@
 #!/bin/bah
 
-mdkir -p /home/backend/www/{1,2,3}
+mkdir -p /home/backend/www/{1,2,3,0,8}
+ip a s
